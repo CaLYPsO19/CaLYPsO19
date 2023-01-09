@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CaLYPsO19
+👋 Hi, I’m @CaLYPsO19
 - I’m interested in Machine Learning and Artificial Intelligence
 - I seek out new knowledge and actively develop new skills
 - Currently pursuing Bachelor of Technology in Information Technology at Indian Institute of Engineering Sciences and Technology, Shibpur, West Bengal, India
